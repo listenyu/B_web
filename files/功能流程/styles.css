@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:845px;
+  width:669px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -99,37 +99,6 @@
   height:94px;
 }
 #u401 {
-  position:absolute;
-  left:2px;
-  top:39px;
-  width:162px;
-  word-wrap:break-word;
-}
-#u402_div {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:166px;
-  height:94px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u402 {
-  position:absolute;
-  left:679px;
-  top:120px;
-  width:166px;
-  height:94px;
-}
-#u403 {
   position:absolute;
   left:2px;
   top:39px;
