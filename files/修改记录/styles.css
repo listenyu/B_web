@@ -17,7 +17,7 @@
   left:1px;
   top:1px;
   width:945px;
-  height:143px;
+  height:179px;
 }
 #u1_img {
   position:absolute;
@@ -554,6 +554,143 @@
   font-size:14px;
 }
 #u51 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:96px;
+  word-wrap:break-word;
+}
+#u52_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:40px;
+  height:36px;
+}
+#u52 {
+  position:absolute;
+  left:0px;
+  top:138px;
+  width:40px;
+  height:36px;
+  font-size:14px;
+}
+#u53 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:36px;
+  word-wrap:break-word;
+}
+#u54_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:36px;
+}
+#u54 {
+  position:absolute;
+  left:40px;
+  top:138px;
+  width:200px;
+  height:36px;
+  font-size:14px;
+  color:#0000FF;
+  text-align:left;
+}
+#u55 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:196px;
+  word-wrap:break-word;
+}
+#u57_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:400px;
+  height:36px;
+}
+#u57 {
+  position:absolute;
+  left:240px;
+  top:138px;
+  width:400px;
+  height:36px;
+  font-size:14px;
+  text-align:left;
+}
+#u58 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:396px;
+  word-wrap:break-word;
+}
+#u59_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:36px;
+}
+#u59 {
+  position:absolute;
+  left:640px;
+  top:138px;
+  width:100px;
+  height:36px;
+  font-size:14px;
+  color:#FF0000;
+}
+#u60 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:96px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u61_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:36px;
+}
+#u61 {
+  position:absolute;
+  left:740px;
+  top:138px;
+  width:100px;
+  height:36px;
+  font-size:14px;
+}
+#u62 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:96px;
+  word-wrap:break-word;
+}
+#u63_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:36px;
+}
+#u63 {
+  position:absolute;
+  left:840px;
+  top:138px;
+  width:100px;
+  height:36px;
+  font-size:14px;
+}
+#u64 {
   position:absolute;
   left:2px;
   top:10px;
