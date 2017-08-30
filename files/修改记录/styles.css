@@ -1574,13 +1574,12 @@
   top:470px;
   width:400px;
   height:100px;
-  color:#000000;
   text-align:left;
 }
 #u157 {
   position:absolute;
   left:2px;
-  top:10px;
+  top:2px;
   width:396px;
   word-wrap:break-word;
 }
@@ -1650,5 +1649,27 @@
   left:2px;
   top:42px;
   width:96px;
+  word-wrap:break-word;
+}
+#u164_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:2px;
+}
+#u164 {
+  position:absolute;
+  left:243px;
+  top:546px;
+  width:200px;
+  height:1px;
+}
+#u165 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:196px;
+  visibility:hidden;
   word-wrap:break-word;
 }
